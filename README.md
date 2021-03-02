@@ -1,2 +1,2 @@
-# SSS
-test
+# Hello Github!
+Use github, start now.
